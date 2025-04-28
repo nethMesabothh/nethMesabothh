@@ -1,9 +1,9 @@
 <br clear="both">
 
-<h2 align="center">Hello World! Hi My Name is Chicka Chicka Slim Shady 🧍🏻‍♀️</h2>
+<h2 align="center">Hi, I'm Both a web developer 👨🏻‍💻</h2>
 
 ###
-
+<h2 align="left">⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ ˖ My Tech Stack:</h2>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
