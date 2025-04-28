@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h2 align="center">Hi, I'm Both a web developer 👨🏻‍💻</h2>
+<h2 align="center">Hi, I'm NethMesaboth a Web Developer 👨🏻‍💻</h2>
 
 ###
 <div align="center">
